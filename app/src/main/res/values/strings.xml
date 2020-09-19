@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Internacionalizacão</string>
+    <string name="shared_preference_key" translatable="false">br.com.creative.internacionalizacao</string>
+    <string name="shared_preference_language_key" translatable="false">br.com.creative.internacionalizacao.language</string>
+    <string name="english_code" translatable="false">en</string>
+    <string name="portuguese_code" translatable="false">pt</string>
+    <string name="spanish_code" translatable="false">es</string>
+
+    <string name="btn_spain_description">Spain</string>
+    <string name="btn_brazil_description">Brazil</string>
+    <string name="btn_usa_description">Usa</string>
+
+    <string name="txt_message" >If you want to lift yourself up, lift up someone else.</string>
+    <string name="txt_language" >English</string>
+</resources>

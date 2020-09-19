@@ -1,0 +1,8 @@
+<resources>
+    <string name="btn_spain_description">Espanha</string>
+    <string name="btn_brazil_description">Brasil</string>
+    <string name="btn_usa_description">Usa</string>
+
+    <string name="txt_message" >Se você quiser se elevar, levante outra pessoa.</string>
+    <string name="txt_language" >Português</string>
+</resources>

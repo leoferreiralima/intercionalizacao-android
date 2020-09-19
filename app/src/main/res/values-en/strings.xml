@@ -1,0 +1,8 @@
+<resources>
+    <string name="btn_spain_description">Spain</string>
+    <string name="btn_brazil_description">Brazil</string>
+    <string name="btn_usa_description">Usa</string>
+
+    <string name="txt_message" >If you want to lift yourself up, lift up someone else.</string>
+    <string name="txt_language" >English</string>
+</resources>
